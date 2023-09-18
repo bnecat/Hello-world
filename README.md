@@ -1,2 +1,2 @@
 # Hello-world
-New term
+Welcome to the new term!
